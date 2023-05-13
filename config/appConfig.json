@@ -4,5 +4,6 @@
         "user": "root",
         "password": "@naruto@",
         "database": "prolow"
-    }
+    },
+    "JWT_SECRCET": "Superman@77"
 }
