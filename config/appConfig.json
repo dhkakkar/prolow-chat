@@ -1,0 +1,8 @@
+{
+    "sqlConfig": {
+        "host": "localhost",
+        "user": "root",
+        "password": "@naruto@",
+        "database": "prolow"
+    }
+}

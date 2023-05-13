@@ -1,0 +1,15 @@
+{
+    "docName": {
+        "key_name": "docName",
+        "nick_name": "doc image",
+        "path": "/uploads/docName/",
+        "type": "image",
+        "prefix": "dp_",
+        "supportExt": [
+            "jpg",
+            "jpeg",
+            "png"
+        ],
+        "allowMultiple": false
+    }
+}
